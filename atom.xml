@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tom Tom Tom</title>
+  
+  <subtitle>The Cat</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://qianmuyang.github.io/"/>
+  <updated>2019-02-16T19:56:50.875Z</updated>
+  <id>https://qianmuyang.github.io/</id>
+  
+  <author>
+    <name>Tom(Qianmu) Yang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hi Guys! Tom Here! Welcome to my Blogger</title>
+    <link href="https://qianmuyang.github.io/Hi-Guys-Tom-Here-Welcome-to-my-Blogger/"/>
+    <id>https://qianmuyang.github.io/Hi-Guys-Tom-Here-Welcome-to-my-Blogger/</id>
+    <published>2019-02-16T19:31:38.000Z</published>
+    <updated>2019-02-16T19:56:50.875Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hi guys, Tom here! Welcome to my personal blogger <code>Tom Tom Tom</code>. My little daddy helped me a lot to build this website and I’ve enjoyed working with him together. If you guys want to build your own blogger, feel free to contact…em, my little daddy. He can be found at <a href="https://www.javaneversleep.com" target="_blank" rel="noopener"><code>Java Never Sleep</code></a>.</p><p><img src="https://www.dropbox.com/s/tb8wv7fyn2rgqrf/when-i-was-young.JPG?dl=1" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hi guys, Tom here! Welcome to my personal blogger &lt;code&gt;Tom Tom Tom&lt;/code&gt;. My little daddy helped me a lot to build this website and I’v
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
